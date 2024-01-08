@@ -16,8 +16,9 @@ I believe in the power of technology to solve problems and enhance experiences.
 
 ### Connect with me
 
-* [Twitter] (https://twitter.com/Mr_Rohit_77)
-* [LinkedIn] (https://www.linkedin.com/in/rohit4777/)
+* Github: [Your GitHub username]
+* Twitter: [[X](https://twitter.com/Mr_Rohit_77)]
+* LinkedIn: [Your LinkedIn profile URL]
 
 ### Collaboration
 
