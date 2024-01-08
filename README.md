@@ -1,37 +1,27 @@
-# Rohit
+# Hey I'M Rohit  
 
-![Banner Image](https://github.com/Rohit-48/Rohit-48/blob/main/Images/X%20Cover%20Image%203.png)
+![Banner image depicting your work or interests, ideally square format](![](https://github.com/Rohit-48/Rohit-48/blob/main/Images/X%20Cover%20Image%203.png))
 
-## About Me
+### About Me
 
-Hello there! I'm [Your Name], a Web Designer and Computer Science student at BITS Pilani with a passion for AI, design, and technology. When I'm not coding, you can find me sketching, painting, or indulging in my love for car games and my car collection. I'm currently exploring the realms of AI and UI/UX design, aiming to make a significant impact in these fields.
+Hi! I'm Rohit, a Web Designer & Developer. I'm also an AI/ML & CS student at Bits Pilani, chasing the dream of AGI and constantly creating enthralling stuff. 
 
-### What I'm Working On
+I believe in the power of technology to solve problems and enhance experiences. 
 
-- Developing innovative web designs and user interfaces
-- Delving into AI and machine learning projects
-- Exploring game design and development
-- Pursuing personal growth through learning and travel
+### Skills
 
-### Interests
+* **Design:** Figma, Webflow
+* **Development:** HTML, CSS, JavaScript, Node.js, Python
+* **Next up** Web 3 then AI/ML 
 
-- AI and Machine Learning
-- User Interface and User Experience Design
-- Game Design
-- Car Enthusiast
-- Travel and Exploration
+### Connect with me
 
-## Social Media
+* Twitter: (https://twitter.com/Mr_Rohit_77)
+* LinkedIn: (https://www.linkedin.com/in/rohit4777/)
 
-- [LinkedIn](Your_LinkedIn_Profile_Link)
-- [GitHub](Your_GitHub_Profile_Link)
-- [Twitter](Your_Twitter_Profile_Link)
-- [Personal Website](Your_Personal_Website_Link)
+### Collaboration
 
-## More About Me
+I'm always open to interesting projects and collaborations. Drop me a message if you have something in mind!
 
-I believe in blending creativity with technology to create impactful solutions. With a keen interest in AI and a background in web design, I am on a journey to become an AI Scientist. I love to discuss topics around AI, technology, design, and philosophy. Feel free to reach out to me on my social platforms for collaborations or just a friendly chat about our shared interests!
+# Always Exploring
 
----
-
-Feel free to customize this template as much as you like. Add sections that reflect your personality and professional journey. The key is to make it authentically you. Good luck!
