@@ -1,6 +1,6 @@
 #  Hi, I'm Rohit!
 
-[![Your Banner Photo](link-to-your-banner-photo)](link-to-your-website-or-portfolio)
+[![Your Banner Photo](![link-to-your-banner-photo](https://github.com/Rohit-48/Rohit-48/blob/main/Images/X%20Cover%20Image%203.png))](link-to-your-website-or-portfolio)
 
 ##  About Me
 
