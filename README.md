@@ -1,6 +1,6 @@
 # Hey I'M Rohit  
 
-![Banner image depicting your work or interests, ideally square format](![](https://github.com/Rohit-48/Rohit-48/blob/main/Images/X%20Cover%20Image%203.png))
+![Banner image depicting your work or interests, ideally square format](https://github.com/Rohit-48/Rohit-48/blob/main/Images/X%20Cover%20Image%203.png)
 
 ### About Me
 
