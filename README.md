@@ -16,13 +16,13 @@ I believe in the power of technology to solve problems and enhance experiences.
 
 ### Connect with me
 
-* Github: [Your GitHub username]
-* Twitter: [[X](https://twitter.com/Mr_Rohit_77)]
-* LinkedIn: [Your LinkedIn profile URL]
+* [[X](https://twitter.com/Mr_Rohit_77)]
+* [[LinkedIn](https://www.linkedin.com/in/rohit4777/)]
+* [[Behance](https://www.behance.net/rohitmandavkar)]
+* [[Cosmos](https://www.cosmos.so/rohit48)]
 
-### Collaboration
 
-I'm always open to interesting projects and collaborations. Drop me a message if you have something in mind!
+#### I'm always open to interesting projects and collaborations. Drop me a message if you have something in mind!
 
 # Always Exploring
 
