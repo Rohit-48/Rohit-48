@@ -16,8 +16,8 @@ I believe in the power of technology to solve problems and enhance experiences.
 
 ### Connect with me
 
-* Twitter: (https://twitter.com/Mr_Rohit_77)
-* LinkedIn: (https://www.linkedin.com/in/rohit4777/)
+* [Twitter] (https://twitter.com/Mr_Rohit_77)
+* [LinkedIn] (https://www.linkedin.com/in/rohit4777/)
 
 ### Collaboration
 
