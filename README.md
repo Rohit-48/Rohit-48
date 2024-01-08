@@ -1,16 +1,35 @@
-### Hi there 👋
+#  Hi, I'm Rohit!
 
-<!--
-**Rohit-48/Rohit-48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Your Banner Photo](link-to-your-banner-photo)](link-to-your-website-or-portfolio)
 
-Here are some ideas to get you started:
+##  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Short description of yourself, skills, interests, and experiences]
+* [Add more bullet points as needed to highlight your key traits and accomplishments]
+
+##  Social Media
+
+* [GitHub](https://github.com/your-username)
+* [LinkedIn](https://www.linkedin.com/in/your-username)
+* [Twitter](https://twitter.com/your-username)
+* [Other social media links you want to share]
+
+## ️ Projects
+
+* [Project 1](link-to-project-1)
+* [Project 2](link-to-project-2)
+* [Add more projects you're proud of!]
+
+##  Learning
+
+* [Topics you're currently exploring]
+* [Resources you're finding helpful]
+
+##  Connect with Me
+
+* Feel free to reach out if you'd like to collaborate on projects, discuss ideas, or just chat!
+
+## ☕️ Fun Facts
+
+* [Something unique or interesting about you]
+* [Another fun fact to share your personality]
