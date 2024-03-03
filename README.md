@@ -1,6 +1,6 @@
 # Hey I'M Rohit
 
-!(image_url)
+!(https://github.com/Rohit-48/Rohit-48/blob/main/Images/25.jpeg)
 
 ---
 
