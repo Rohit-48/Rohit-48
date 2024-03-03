@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hey I'M Rohit
 
-<!--
-**Rohit-48/Rohit-48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!(image_url)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bio:**
+
+[I'm Rohit, a passionate web designer and developer-driven by the pursuit of artificial-general intelligence (AGI) and a relentless urge to craft captivating experiences. My exploration journey encompasses computer science, artificial intelligence/machine learning, philosophy, and science.]
+
+**Skills:**
+
+* **Frontend:** HTML, CSS, Bootstrap, JavaScript, Node.js, Learning Next.js.
+* **Design:** Figma, Webflow, Web Design, UI Design.
+
+**Projects:**
+
+* Working On Portfolio
+* Working On new age Blog Website
+
+**Languages:**
+
+* Python, JavaScript, HTML, CSS, Bootstrap, Node.js,
+
+**Social Media:**
+
+* [[𝕏](https://twitter.com/Mr_Rohit_77)]
+* [[LinkedIn](https://www.linkedin.com/in/rohit48/)] 
+
+**Let's Connect:**
+
+* I'm open to collaborating, or just chatting about tech!
+* Feel free to reach out to me via [rohitmandavkar3577@gmail.com]
+
+---
