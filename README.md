@@ -24,12 +24,12 @@
 
 **Social Media:**
 
-* [[𝕏](https://twitter.com/Mr_Rohit_77)]
-* [[LinkedIn](https://www.linkedin.com/in/rohit48/)] 
+* [𝕏(https://twitter.com/Mr_Rohit_77)]
+* [LinkedIn(https://www.linkedin.com/in/rohit48/)] 
 
 **Let's Connect:**
 
 * I'm open to collaborating, or just chatting about tech!
-* Feel free to reach out to me via [rohitmandavkar3577@gmail.com]
+* Feel free to reach out to me via 𝕏 Message 
 
 ---
