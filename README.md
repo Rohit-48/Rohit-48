@@ -24,8 +24,8 @@
 
 **Social Media:**
 
-* [𝕏(https://twitter.com/Mr_Rohit_77)]
-* [LinkedIn(https://www.linkedin.com/in/rohit48/)] 
+* [[𝕏](https://twitter.com/Mr_Rohit_77)]
+* [[LinkedIn](https://www.linkedin.com/in/rohit48/)] 
 
 **Let's Connect:**
 
