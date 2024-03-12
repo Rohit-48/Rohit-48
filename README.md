@@ -2,11 +2,10 @@
 
 <!-- ![](https://github.com/Rohit-48/Rohit-48/blob/main/Images/25.jpeg) -->
 
----
-
 **Bio:**
 
-[I'm Rohit, a passionate web designer and developer-driven by the pursuit of artificial-general intelligence (AGI) and a relentless urge to craft captivating experiences. My exploration journey encompasses computer science, artificial intelligence/machine learning, philosophy, and science.]
+Web dev & CS student, AI/ML enthusiast waiting for AGI to make coffee ☕️, tinkering with the future &  healthy lifestyle. Curious about AGI, Quantum Computing🌴
+
 
 **Skills:**
 
