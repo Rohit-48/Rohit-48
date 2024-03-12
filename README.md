@@ -5,7 +5,7 @@
 **Bio:**
 
 Web dev & CS student, AI/ML enthusiast waiting for AGI to make coffee ☕️, tinkering with the future &  healthy lifestyle. Curious about AGI, Quantum Computing🌴
-Learning.
+Learning, Build in Public, Open-source 
 
 
 **Skills:**
