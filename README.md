@@ -1,1 +1,1 @@
-## Web dev/Design & CS student(UG), Thinker.
+## CS student(UG), Thinker.
