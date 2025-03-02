@@ -1,1 +1,2 @@
-## CS student(UG), Thinker.
+## 🌴CS student(UG), Thinker.
+- C/C++, Rust, JavaScript
