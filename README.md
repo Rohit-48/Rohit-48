@@ -12,7 +12,7 @@ Portfolio: [rohitvince](https://rohitvince0.netlify.app)
 **Dreaming of a cafe with a lofi vibe**
 ![Lofi Cafe](Images/Cafeee.jpeg)
 
-- love to hangout on discord, @rohitvince07
+- love to hangout on discord, @rohitvince0
 - building stuff, gaming, yup on travel, trekking.🌴🥰
 
 
