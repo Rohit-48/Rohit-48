@@ -10,7 +10,7 @@
 
 
 - love to hang out on Discord, @rohitvince0
-- building stuff, gaming, yup, travel, trekking.🌴🥰
+- building stuff, gaming, yap, travel, trekking.🌴🥰
 
 
 
