@@ -3,7 +3,7 @@
 **I'm a UG CS student, currently doing Web development and learning ai/ml stuff**
 
 
-- C, Rust, JavaScript, Python.
+- Typescript, javascript, Rust, python, c
 - Web dev, design 
 - Math & Physics.
 - NixOS, nix-pkgs
