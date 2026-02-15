@@ -18,5 +18,24 @@
 
 <br/>
 
+### 🚀 Current Projects
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
+  <a href="https://github.com/Rohit-48/T-Browseee" style="text-decoration: none;">
+    <div style="padding: 16px 20px; border-radius: 8px; background: #ffffff; border: 2px solid #000000; color: #000000; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+      <strong style="color: #000000;">📦 T-Browser-Extension</strong>
+      <br/>
+      <span style="font-size: 12px; color: #333333;">A browser extension project</span>
+    </div>
+  </a>
+  <a href="https://github.com/Rohit-48/cybercompo" style="text-decoration: none;">
+    <div style="padding: 16px 20px; border-radius: 8px; background: #ffffff; border: 2px solid #000000; color: #000000; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+      <strong style="color: #000000;">📦 CyberComponent</strong>
+      <br/>
+      <span style="font-size: 12px; color: #333333;">A cybercomponent project</span>
+    </div>
+  </a>
+</div>
+
 #### [my nixOS rice](https://github.com/Rohit-48/My-Config)
 
