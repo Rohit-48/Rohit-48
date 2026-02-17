@@ -18,6 +18,9 @@
 
 <br/>
 
+### I Live Here, Window View ↓
+<img src="./Images/megabuilding-window-view.png">
+
 ### 🔗 Current Projects
 
 <table>
@@ -40,4 +43,3 @@
 ---
 
 **🐧 [my nixOS rice](https://github.com/Rohit-48/My-Config)**
-
