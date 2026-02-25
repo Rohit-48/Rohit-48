@@ -1,85 +1,34 @@
-```
-██████╗  ██████╗ ██╗  ██╗██╗████████╗
-██╔══██╗██╔═══██╗██║  ██║██║╚══██╔══╝
-██████╔╝██║   ██║███████║██║   ██║   
-██╔══██╗██║   ██║██╔══██║██║   ██║   
-██║  ██║╚██████╔╝██║  ██║██║   ██║   
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝  
-```
+## 🌴 CS Student (UG) · Thinker · Builder
+
+I'm a UG CS student doing web development and diving into AI/ML stuff.
+
+- **Languages:** C, Rust, JavaScript, Python
+- **Interests:** Web dev & design, Math & Physics, NixOS & nix-pkgs
+- **Vibes:** Building stuff, gaming, travel, trekking 🌴🥰
+- **Discord:** @rohitvince0
+
+<a href="https://x.com/rohitcpp" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="30" />
+</a>
+<a href="https://linkedin.com/in/Rohit-48" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+</a>
+<a href="https://instagram.com/rohitm" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="30" />
+</a>
 
 ---
 
-> **CS STUDENT [UG] · THINKER**
-> SOFTWARE ENGINEERING · AI/ML
+### Window View 🪟
+
+<img src="./Images/megabuilding-window-view.png" alt="window view" />
 
 ---
 
-## STACK
+### 🔗 Current Projects
 
-```
-┌─────────────────────────────────────────────────────┐
-│  LANGUAGES                                          │
-│  ─────────────────────────────────────────────────  │
-│  C · C++ · RUST · PYTHON                           │
-│  JAVASCRIPT · TYPESCRIPT                           │
-│                                                     │
-│  WEB                                                │
-│  ─────────────────────────────────────────────────  │
-│  REACT · NEXT.JS · TAILWIND · FRAMER MOTION        │
-│  NODE.JS · EXPRESS · HONO                          │
-│                                                     │
-│  SYSTEMS                                            │
-│  ─────────────────────────────────────────────────  │
-│  NIXOS · NIX-PKGS                                  │
-│                                                     │
-│  DOMAINS                                            │
-│  ─────────────────────────────────────────────────  │
-│  SOFTWARE ENGINEERING             │
-└─────────────────────────────────────────────────────┘
-```
+| | |
+|---|---|
+| 📦 **[T-Browser-Extension](https://github.com/Rohit-48/T-Browseee)** <br/> <sub>A browser extension project</sub> | 📦 **[CyberComponent](https://github.com/Rohit-48/cybercompo)** <br/> <sub>A cybercomponent project</sub> |
 
----
-
-## BUILDING
-
-```
-╔══════════════════════════════════════════════════════╗
-║  NAME                    DESCRIPTION                 ║
-╠══════════════════════════════════════════════════════╣
-║  T-Browser-Extension  →  browser extension           ║
-║  CyberComponent       →  cybercomponent              ║
-║          ║
-╚══════════════════════════════════════════════════════╝
-```
-
-**[T-Browser-Extension](https://github.com/Rohit-48/T-Browseee)**
-**[CyberComponent](https://github.com/Rohit-48/cybercompo)**
-**[NixOS Config](https://github.com/Rohit-48/My-Config)**
-
----
-
-## CONTACT
-
-```
-DISCORD  →  @rohitvince0
-X        →  https://x.com/rohitcpp
-LINKEDIN →  https://linkedin.com/in/Rohit-48
-INSTA    →  https://instagram.com/rohitm
-```
-
----
-
-## STATUS
-
-```
-[■■■■■■■■░░]  BUILDING
-[■■■■■░░░░░]  GAMING
-[■■■■■■░░░░]  THINKING
-```
-
----
-
-```
-NO FLUFF. JUST CODE.
-```
-
+**🐧 [My NixOS Rice](https://github.com/Rohit-48/My-Config)**
