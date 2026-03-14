@@ -2,7 +2,7 @@
 
 I'm a UG CS student doing web development and diving into AI/ML stuff.
 
-- **Languages:** C, Rust, JavaScript, Python
+- **Languages:** C, Rust, JavaScript, TypeScript, Python
 - **Interests:** Web dev & design, Math & Physics, NixOS & nix-pkgs
 - **Vibes:** Building stuff, gaming, travel, trekking 🌴🥰
 - **Discord:** @rohitvince0
