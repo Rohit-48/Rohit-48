@@ -4,7 +4,7 @@ I'm a UG CS student doing web development and diving into AI/ML stuff.
 
 - **Languages:** C, Rust, JavaScript, TypeScript, Python
 - **Interests:** Web dev & design, Math & Physics, NixOS & nix-pkgs
-- **Vibes:** Building stuff, gaming, travel, trekking 🌴🥰
+- **Vibes:** Building stuff, gaming,i live in megabuilding 10 in night city.
 - **Discord:** @rohitvince0
 
 <a href="https://x.com/rohitcpp" target="_blank">
